@@ -1,6 +1,4 @@
-# js-complete-course
-
-# Link to exercise : https://github.com/becodeorg/atw-giertz-2-17/tree/master/2.The-Hills/js-complete-course
+# Weather app
 
 *Dont be afraid to kill your babys!*
 
